@@ -133,7 +133,7 @@
     }
 }
 
-@media (min-width:992px) {
+@media (min-width:768px) {
     body {
         background-color: #fafafa;
         font-family: 'Roboto', sans-serif;
